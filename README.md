@@ -1,1 +1,1 @@
-# Checker
+# Data visualization using geospatial tools
